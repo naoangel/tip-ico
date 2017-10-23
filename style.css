@@ -1,9 +1,21 @@
 
 
-.icons{
-	display: inline-block;
-	position: relative;
-	align-self: 
-	color: #888888;
+body{
 	
+	
+	}
+
+.icons{
+   	overflow: auto;
 }
+
+i{
+	font-size: 40px;
+}
+.fa{
+    	
+	float:left;
+	position: relative;
+	color: #888888;
+}
+
